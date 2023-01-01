@@ -1,0 +1,12 @@
+D:\AIR\SEMESTER 5\Web Technologies\practice\SolutionDemo\ClassLibraryModel\bin\Debug\net6.0\ClassLibraryModel.deps.json
+D:\AIR\SEMESTER 5\Web Technologies\practice\SolutionDemo\ClassLibraryModel\bin\Debug\net6.0\ClassLibraryModel.dll
+D:\AIR\SEMESTER 5\Web Technologies\practice\SolutionDemo\ClassLibraryModel\bin\Debug\net6.0\ClassLibraryModel.pdb
+D:\AIR\SEMESTER 5\Web Technologies\practice\SolutionDemo\ClassLibraryModel\obj\Debug\net6.0\ClassLibraryModel.csproj.AssemblyReference.cache
+D:\AIR\SEMESTER 5\Web Technologies\practice\SolutionDemo\ClassLibraryModel\obj\Debug\net6.0\ClassLibraryModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\AIR\SEMESTER 5\Web Technologies\practice\SolutionDemo\ClassLibraryModel\obj\Debug\net6.0\ClassLibraryModel.AssemblyInfoInputs.cache
+D:\AIR\SEMESTER 5\Web Technologies\practice\SolutionDemo\ClassLibraryModel\obj\Debug\net6.0\ClassLibraryModel.AssemblyInfo.cs
+D:\AIR\SEMESTER 5\Web Technologies\practice\SolutionDemo\ClassLibraryModel\obj\Debug\net6.0\ClassLibraryModel.csproj.CoreCompileInputs.cache
+D:\AIR\SEMESTER 5\Web Technologies\practice\SolutionDemo\ClassLibraryModel\obj\Debug\net6.0\ClassLibraryModel.dll
+D:\AIR\SEMESTER 5\Web Technologies\practice\SolutionDemo\ClassLibraryModel\obj\Debug\net6.0\refint\ClassLibraryModel.dll
+D:\AIR\SEMESTER 5\Web Technologies\practice\SolutionDemo\ClassLibraryModel\obj\Debug\net6.0\ClassLibraryModel.pdb
+D:\AIR\SEMESTER 5\Web Technologies\practice\SolutionDemo\ClassLibraryModel\obj\Debug\net6.0\ref\ClassLibraryModel.dll
