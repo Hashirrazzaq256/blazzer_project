@@ -1,0 +1,34 @@
+﻿@page "/getdata"
+@using ClassLibraryDAL
+@using ClassLibraryModel
+
+<h3>getdata</h3>
+
+
+<button @onclick="SaveProduct">SaveProduct</button>
+@if (message!=null){
+    <label>@message</label>
+}
+
+
+<button class="glow-on-hover btn" type="button">HOVER ME</button>
+<button type="button" class="btn btn-outline-primary" @onclick="DeleteProduct">Delete </button>
+
+
+
+@code {
+    
+    private string? message{ get; set; }
+    public void  SaveProduct(){
+        int i=  ProductDAL.SaveProduct();
+        if(i==1){
+            message = "data saved successfully";
+        }
+    }
+
+    public void DeleteProduct(){
+        ProductDAL.DeleteProduct();
+
+    }
+
+}
